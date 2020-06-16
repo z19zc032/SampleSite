@@ -15,7 +15,7 @@
 header {
    position:relative;
    height: 8rem;
-   background: #333;
+   background: blue;
    box-shadow: 0 4px 0.3125rem rgba(0,0,0,.3);
  }
 
@@ -29,7 +29,7 @@ header {
 
 nav {
   padding: 1rem 3rem ;
-  background: #333;
+  background: blue;
 }
 
   nav ul{
@@ -72,6 +72,6 @@ main{
 footer {
   padding: 2rem 3rem;
   text-align: center;
-  background: #333;
+  background: blue;
   color: white;
 }
